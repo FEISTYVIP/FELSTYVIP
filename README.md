@@ -1,45 +1,109 @@
 
-### Hi there, my friend 👋
+**Hello, I'm Antônio Nascimento 🇧🇷**
+<a id="top"></a>
 
-- Currenly, I'm a Software Engineer @Apple  Core OS team, based in Cupertino, CA.
+[![Portfolio](https://img.shields.io/badge/My-Portfolio-blue?style=flat&logo=google-chrome&logoWidth=125)](https://portfolio-antonio-nascimento.netlify.app/)
 
-- Alumni @UMich @SJTU
-- Champions @Apple Badminton Open 2024/2025 @Google Bay Area Badminton Open 2024
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=+JetBrains+Mono+&pause=1000&color=2679E9&left=true&width=440&height=45&lines=I+am+interested+in+showing...;My+programming+knowledge...;And+learning+too." alt="Typing SVG" />
+</a>
 
-Reach me at [kxuan.huang@gmail.com](mailto:kxuan.huang@gmail.com) and let's talk!
+![Octocat-Ninja1385](Octocat-Ninja1375.png)
 
-<!--
-**kx-Huang/kx-Huang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Recent Blog Posts
+[![Latest blog post workflow](https://github.com/Ninja1375/Ninja1375/actions/workflows/blog-post-workflow.yml/badge.svg)](https://github.com/Ninja1375/Ninja1375/actions/workflows/blog-post-workflow.yml)
+<!-- BLOG-POST-LIST:START -->
+- [Tutorial: Criando um Site com Informações de Todos os Países Usando HTML, CSS e JavaScript](https://programartudo.blogspot.com/2025/04/tutorial-criando-um-site-com.html)
+- [Código de Máquina: A Linguagem Verdadeira dos Computadores](https://programartudo.blogspot.com/2025/04/codigo-de-maquina-linguagem-verdadeira.html)
+- [Como criar seu primeiro container com Docker](https://programartudo.blogspot.com/2025/04/como-criar-seu-primeiro-container-com.html)
+- [Docker vs VirtualBox: qual a diferença?](https://programartudo.blogspot.com/2025/04/docker-vs-virtualbox-qual-diferenca.html)
+- [Como Baixar e Instalar o Docker no Windows, macOS, Linux e Android](https://programartudo.blogspot.com/2025/04/como-baixar-e-instalar-o-docker-no.html)
+<!-- BLOG-POST-LIST:END -->
 
-Here are some ideas to get you started:
+## Tools and Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://programartudo.blogspot.com/2024/11/html-tudo-o-que-precisa-para-comecar.html" target="_blank"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/></a> 
+<a href="https://programartudo.blogspot.com/2024/11/css-como-dar-estilo-ao-teu-website.html" target="_blank"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/></a> 
+<a href="https://programartudo.blogspot.com/2024/11/javascript-linguagem-dinamica-da-web.html" target="_blank"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/></a> 
+<a href="https://programartudo.blogspot.com/2024/11/python-uma-linguagem-de-programacao.html" target="_blank"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/></a> 
+<a href="https://programartudo.blogspot.com/2024/11/sql-manipulacao-e-gerenciamento-de-dados.html" target="_blank"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" height="40"/></a> 
+<a href="https://programartudo.blogspot.com/2024/11/typescript-guia-completo-para.html" target="_blank"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/></a> 
+<a href="https://programartudo.blogspot.com/2024/09/github-o-que-e-como-funciona-e-como.html" target="_blank"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/></a> 
+<a href="https://programartudo.blogspot.com/2024/11/introducao-ao-desenvolvimento-android.html" target="_blank"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" height="40"/></a> 
+<a href="https://programartudo.blogspot.com/2024/08/markdown-linguagem-essencial-para.html" target="_blank"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="40" height="40"/></a> 
+<a href="https://programartudo.blogspot.com/2024/11/canva-como-criar-designs-profissionais.html" target="_blank"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="40" height="40"/></a> 
+<a href="https://programartudo.blogspot.com/2024/08/o-que-e-yaml.html" target="_blank"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yaml/yaml-original.svg" width="40" height="40"/></a>
 
-<p align="center"> 
-  <b>Visitor count</b><br>
-  <img src="https://profile-counter.glitch.me/kx-Huang/count.svg" />
-</p>
+## Contacts
 
-<p align="center">
-  <a href="https://github.com/kx-Huang">
-    <img align="center" height="178" src="https://github-readme-stats-kx-huang.vercel.app/api/top-langs/?username=kx-Huang&layout=compact&theme=chartreuse-dark&exclude_repo=Embedded-T-Rex-Runner,kx-Huang.github.io&langs_count=6&border_radius=15" />
+<a href="https://www.youtube.com/channel/UCvUtyzVxB5LcIPccivbS0pQ" target="_blank"><img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" width="50" height="40" alt="YouTube"/></a> <a href="mailto:antonioninjaa75@gmail.com"><img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="50" height="40" alt="Gmail"/></a> <a href="https://programartudo.blogspot.com/" target="_blank"><img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Blogger.svg/512px-Blogger.svg.png" width="50" height="40" alt="Blogger"/></a>
+
+## Stats and Contributions
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ninja1375&layout=compact&langs_count=50&card_width=800&card_height=500&theme=dark" alt="Top Langs">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ninja1375&langs_count=10&theme=dark" alt="Top Langs" width="800">
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ninja1375&theme=dark" alt="GitHub Stats" width="800">
+
+<img src="https://streak-stats.demolab.com?user=Ninja1375&theme=neon-dark" alt="Ninja1375's GitHub Streak" width="800">
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ninja1375&theme=dark" alt="Profile Details" width="800">
+
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Ninja1375's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Ninja1375&bg_color=0c1014&color=2aa889&line=599cab&point=99d1ce&area_color=2aa889&area=true&hide_border=true" width="800"/></a>
+
+<a href="https://ninja1375.github.io/Ninja1375/">
+<img src="https://github-widgetbox.vercel.app/api/profile?username=Ninja1375&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox" width="800"></a>
+
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ninja1375&theme=dark_lover" alt="GitHub Trophy" style="width: 800px;">
+</a>
+
+<a href="https://github.com/Ninja1375?tab=followers">
+    <img src="https://img.shields.io/github/followers/Ninja1375?label=Followers&logo=GitHub&style=for-the-badge&hide_border=true" alt="GitHub badge"/>
   </a>
-  &nbsp;
-  <a href="https://github.com/kx-Huang">
-    <img align="center" height="178" src="https://github-readme-stats-kx-huang.vercel.app/api?username=kx-Huang&show_icons=true&theme=vision-friendly-dark&count_private=true&border_radius=15" />
-  </a>
-</p>
 
-<p align="center">
-  <a href="https://github.com/kx-Huang">
-    <img align="center" height="420" src="https://github-readme-stats-kx-huang.vercel.app/api/wakatime?username=kx_Huang&layout=compact&theme=github_dark&langs_count=22&hide=markdown,text,other&range=all_time" />
-  </a>
-</p>
+![Visitcount](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Ninja1375/Ninja1375&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Visitcount&edge_flat=false)
+
+## 🐍 Snake Game
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ninja1375/Ninja1375/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ninja1375/Ninja1375/output/github-contribution-grid-snake.svg">
+  <img alt="Snake Game" src="https://raw.githubusercontent.com/Ninja1375/Ninja1375/output/github-contribution-grid-snake.svg">
+</picture>
+
+## Listening on Spotify
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=317wb4f5julzmbk3t7t22bc5chcq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/playlist/2idVCm9WX50irPcv5kvjc0?si=Vbjgd187SCm0Q7CexHpdpQ)
+
+## JavaScript Portfolio
+
+```JavaScript
+const programmer = {
+        name: "Antônio Nascimento",
+        age: 39,
+        skills: ["HTML", "CSS", "JavaScript", "SQL", "Python"]
+    };
+    document.getElementById('name').textContent = programmer.name;
+    document.getElementById('age').textContent = programmer.age;
+
+    const skillsList = document.getElementById('skills');
+    programmer.skills.forEach(skill => {
+        const li = document.createElement('li');
+        li.textContent = skill;
+        skillsList.appendChild(li);
+    });
+```
+
+## 🎵 Favorite Song  
+[![Be Together - Wild Belle](https://img.youtube.com/vi/GZSsOEqgm0c/maxresdefault.jpg)](https://www.youtube.com/watch?v=GZSsOEqgm0c)  
+
+## 📺 Favorite Series  
+[![Supernatural](https://img.youtube.com/vi/apltEQy8RzQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=apltEQy8RzQ)
+
+## Support Me
+
+<a href="https://buymeacoffee.com/antonio13" target="_blank"><img loading="lazy" src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=&slug=seu_nome_de_usuario&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" width="120" height="120"></a>  <a href="https://www.paypal.com/donate/?hosted_button_id=DN574F28FYUNG" target="_blank"><img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/b/b5/PayPal.svg" width="120" height="120"></a>
+
+<p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=Back+to+Top&color=blue&style=flat&logo" alt="Back to Top" /></a></p>
