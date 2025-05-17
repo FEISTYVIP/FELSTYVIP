@@ -1,109 +1,14 @@
+<h1 align="center">مرحبًا 👋، أنا FEISTY</h1>
+<h3 align="center">مطور واجهة أمامية متحمس من الهند</h3>
 
-**Hello, I'm Antônio Nascimento 🇧🇷**
-<a id="top"></a>
+- 📫 كيفية التواصل معي **qqwweerrrr0000@gmail.com**
 
-[![Portfolio](https://img.shields.io/badge/My-Portfolio-blue?style=flat&logo=google-chrome&logoWidth=125)](https://portfolio-antonio-nascimento.netlify.app/)
+<h3 align="left">تواصل معي:</h3>
+<p align="left">
+</p>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=+JetBrains+Mono+&pause=1000&color=2679E9&left=true&width=440&height=45&lines=I+am+interested+in+showing...;My+programming+knowledge...;And+learning+too." alt="Typing SVG" />
-</a>
+<h3 align="left">اللغات والأدوات:</h3>
+<p align="left"> <a href="https://www.11ty.dev/" target="_blank" rel="noreferrer"> <img src="https://gist.githubusercontent.com/vivek32ta/c7f7bf583c1fb1c58d89301ea40f37fd/raw/f4c85cce5790758286b8f155ef9a177710b995df/11ty.svg" alt="11ty" width="40" height="40"/> </a> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://backbonejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/backbonejs/backbonejs-original-wordmark.svg" alt="backbonejs" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> <a href="https://offeescript.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/coffeescript/coffeescript-original-wordmark.svg" alt="coffeescript" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://ionicframework.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src = "https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt = "pandas" width = "40" height = "40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://symfony.com" target="_blank" rel="noreferrer"> <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" العرض = "40" الارتفاع = "40"/> </a> </p>
 
-![Octocat-Ninja1385](Octocat-Ninja1375.png)
-
-# Recent Blog Posts
-[![Latest blog post workflow](https://github.com/Ninja1375/Ninja1375/actions/workflows/blog-post-workflow.yml/badge.svg)](https://github.com/Ninja1375/Ninja1375/actions/workflows/blog-post-workflow.yml)
-<!-- BLOG-POST-LIST:START -->
-- [Tutorial: Criando um Site com Informações de Todos os Países Usando HTML, CSS e JavaScript](https://programartudo.blogspot.com/2025/04/tutorial-criando-um-site-com.html)
-- [Código de Máquina: A Linguagem Verdadeira dos Computadores](https://programartudo.blogspot.com/2025/04/codigo-de-maquina-linguagem-verdadeira.html)
-- [Como criar seu primeiro container com Docker](https://programartudo.blogspot.com/2025/04/como-criar-seu-primeiro-container-com.html)
-- [Docker vs VirtualBox: qual a diferença?](https://programartudo.blogspot.com/2025/04/docker-vs-virtualbox-qual-diferenca.html)
-- [Como Baixar e Instalar o Docker no Windows, macOS, Linux e Android](https://programartudo.blogspot.com/2025/04/como-baixar-e-instalar-o-docker-no.html)
-<!-- BLOG-POST-LIST:END -->
-
-## Tools and Technologies
-
-<a href="https://programartudo.blogspot.com/2024/11/html-tudo-o-que-precisa-para-comecar.html" target="_blank"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/></a> 
-<a href="https://programartudo.blogspot.com/2024/11/css-como-dar-estilo-ao-teu-website.html" target="_blank"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/></a> 
-<a href="https://programartudo.blogspot.com/2024/11/javascript-linguagem-dinamica-da-web.html" target="_blank"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/></a> 
-<a href="https://programartudo.blogspot.com/2024/11/python-uma-linguagem-de-programacao.html" target="_blank"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/></a> 
-<a href="https://programartudo.blogspot.com/2024/11/sql-manipulacao-e-gerenciamento-de-dados.html" target="_blank"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" height="40"/></a> 
-<a href="https://programartudo.blogspot.com/2024/11/typescript-guia-completo-para.html" target="_blank"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/></a> 
-<a href="https://programartudo.blogspot.com/2024/09/github-o-que-e-como-funciona-e-como.html" target="_blank"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/></a> 
-<a href="https://programartudo.blogspot.com/2024/11/introducao-ao-desenvolvimento-android.html" target="_blank"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" height="40"/></a> 
-<a href="https://programartudo.blogspot.com/2024/08/markdown-linguagem-essencial-para.html" target="_blank"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="40" height="40"/></a> 
-<a href="https://programartudo.blogspot.com/2024/11/canva-como-criar-designs-profissionais.html" target="_blank"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="40" height="40"/></a> 
-<a href="https://programartudo.blogspot.com/2024/08/o-que-e-yaml.html" target="_blank"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yaml/yaml-original.svg" width="40" height="40"/></a>
-
-## Contacts
-
-<a href="https://www.youtube.com/channel/UCvUtyzVxB5LcIPccivbS0pQ" target="_blank"><img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" width="50" height="40" alt="YouTube"/></a> <a href="mailto:antonioninjaa75@gmail.com"><img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="50" height="40" alt="Gmail"/></a> <a href="https://programartudo.blogspot.com/" target="_blank"><img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Blogger.svg/512px-Blogger.svg.png" width="50" height="40" alt="Blogger"/></a>
-
-## Stats and Contributions
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ninja1375&layout=compact&langs_count=50&card_width=800&card_height=500&theme=dark" alt="Top Langs">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ninja1375&langs_count=10&theme=dark" alt="Top Langs" width="800">
-
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ninja1375&theme=dark" alt="GitHub Stats" width="800">
-
-<img src="https://streak-stats.demolab.com?user=Ninja1375&theme=neon-dark" alt="Ninja1375's GitHub Streak" width="800">
-
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ninja1375&theme=dark" alt="Profile Details" width="800">
-
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Ninja1375's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Ninja1375&bg_color=0c1014&color=2aa889&line=599cab&point=99d1ce&area_color=2aa889&area=true&hide_border=true" width="800"/></a>
-
-<a href="https://ninja1375.github.io/Ninja1375/">
-<img src="https://github-widgetbox.vercel.app/api/profile?username=Ninja1375&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox" width="800"></a>
-
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ninja1375&theme=dark_lover" alt="GitHub Trophy" style="width: 800px;">
-</a>
-
-<a href="https://github.com/Ninja1375?tab=followers">
-    <img src="https://img.shields.io/github/followers/Ninja1375?label=Followers&logo=GitHub&style=for-the-badge&hide_border=true" alt="GitHub badge"/>
-  </a>
-
-![Visitcount](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Ninja1375/Ninja1375&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Visitcount&edge_flat=false)
-
-## 🐍 Snake Game
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ninja1375/Ninja1375/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ninja1375/Ninja1375/output/github-contribution-grid-snake.svg">
-  <img alt="Snake Game" src="https://raw.githubusercontent.com/Ninja1375/Ninja1375/output/github-contribution-grid-snake.svg">
-</picture>
-
-## Listening on Spotify
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=317wb4f5julzmbk3t7t22bc5chcq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/playlist/2idVCm9WX50irPcv5kvjc0?si=Vbjgd187SCm0Q7CexHpdpQ)
-
-## JavaScript Portfolio
-
-```JavaScript
-const programmer = {
-        name: "Antônio Nascimento",
-        age: 39,
-        skills: ["HTML", "CSS", "JavaScript", "SQL", "Python"]
-    };
-    document.getElementById('name').textContent = programmer.name;
-    document.getElementById('age').textContent = programmer.age;
-
-    const skillsList = document.getElementById('skills');
-    programmer.skills.forEach(skill => {
-        const li = document.createElement('li');
-        li.textContent = skill;
-        skillsList.appendChild(li);
-    });
-```
-
-## 🎵 Favorite Song  
-[![Be Together - Wild Belle](https://img.youtube.com/vi/GZSsOEqgm0c/maxresdefault.jpg)](https://www.youtube.com/watch?v=GZSsOEqgm0c)  
-
-## 📺 Favorite Series  
-[![Supernatural](https://img.youtube.com/vi/apltEQy8RzQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=apltEQy8RzQ)
-
-## Support Me
-
-<a href="https://buymeacoffee.com/antonio13" target="_blank"><img loading="lazy" src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=&slug=seu_nome_de_usuario&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" width="120" height="120"></a>  <a href="https://www.paypal.com/donate/?hosted_button_id=DN574F28FYUNG" target="_blank"><img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/b/b5/PayPal.svg" width="120" height="120"></a>
-
-<p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=Back+to+Top&color=blue&style=flat&logo" alt="Back to Top" /></a></p>
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/Shhs"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Shhs" /></a><a href="https://ko-fi.com/FEISTYhszbhz"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="FEISTYhszbhz" /></a></p><br><br>
